@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-app",
+  "version": "1.0.0",
+  "description": "NodeJS Express Server App",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "http-proxy-middleware": "^0.17.4",
+    "ngrok": "^2.2.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yigithsyn/NodeJS-Express-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yigithsyn/NodeJS-Express-App/issues"
+  },
+  "homepage": "https://github.com/yigithsyn/NodeJS-Express-App#readme"
+}
